@@ -3,6 +3,7 @@
   "description":"An IconPack Demostration",
   "author": "Marc Espin ",
   "version": "0.0.1",
+  "highlight":"default",
   "icons":{
     "blue":"blue.svg",
     "green":"green.svg",
